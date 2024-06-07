@@ -1,0 +1,6 @@
+login_user: root
+login_host: db.hkas.cloud
+login_password: ExpenseApp@1
+DB_HOST: db.hkas.cloud
+app_location: /app
+component: backend
